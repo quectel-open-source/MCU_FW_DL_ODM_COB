@@ -1,0 +1,11 @@
+2023-9-6_10:48:12 <--> Note: not set PLC Port!
+2023-9-6_10:48:12 <--> Fixture Number Length Error
+2023-9-6_10:48:12 <--> Link DB(MO:HF230731161704)......
+2023-9-6_10:48:12 <--> Link DB Pass
+2023-9-6_10:48:12 <--> Q6-A0580-001:not need set 120M
+2023-9-6_10:48:12 <--> DB(MO:HF230731161704,OC:QDM536CNEG-I05-BBAAA,FW_Ver:LTE01R06A08_C_SDK_A_QDM536_SSD_01.001.01.001)......
+2023-9-6_10:48:13 <--> MO_Name:HF230731161704, Tool_Name:{"TestFlow":[{"Id":"1","Station":"SilverLabel","Status":"AUTO_SN_GEN","SNFlag":"","TestTool":"IKOTEK_MOB_Label_Print"},{"Id":"2","Station":"DL_FW","Status":"AUTO_DL_FW","SNFlag":"","TestTool":"FW_DL_And_Format_ODM"},{"Id":"3","Station":"DL_MCU","Status":"AUTO_DL_MCU","SNFlag":"","TestTool":"MCU_FW_DL_ODM"},{"Id":"4","Station":"DL_Add","Status":"AUTO_DL_Add","SNFlag":"","TestTool":"Additional_FW_DL_ODM"},{"Id":"5","Station":"RF_FT","Status":"AUTO_FT","SNFlag":"","TestTool":"IKOTEK_MOB_FT"},{"Id":"6","Station":"FCT","Status":"AUTO_FCT","SNFlag":"","TestTool":"ODM_FCT_Test_MOB"},{"Id":"7","Station":"RF_FT2","Status":"AUTO_RF_FT2","SNFlag":"","TestTool":"IKOTEK_MOB_FT_ASM"},{"Id":"8","Station":"Collect","Status":"AUTO_PACK","SNFlag":"","TestTool":"IKOTEK_Collect"},{"Id":"9","Station":"Ship","Status":"AUTO_SHIP","SNFlag":"","TestTool":"
+2023-9-6_10:48:13 <--> Get_SQL_ATT_Custom_Test_Flow Pass
+2023-9-6_10:48:13 <--> FAIL,CustomTestFlow No "MCU_FW_DL_ODM_COB" or  "MCU_FW_DL_COB" Station,this tool is not required for this MO
+2023-9-6_10:48:13 <--> Check_CustomTestFlow Fail
+2023-9-6_10:48:13 <--> FAIL,Please check need DL!

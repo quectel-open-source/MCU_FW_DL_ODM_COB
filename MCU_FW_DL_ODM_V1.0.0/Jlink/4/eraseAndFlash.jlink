@@ -1,0 +1,11 @@
+device GD32F303CC
+usb 0
+si 1
+speed 4000
+erase
+sleep 400
+loadfile "C:\Users\quectel\Desktop\QDC002_GD32F303_01.001V01.01.001V04\QDC002_GD32F303_01.001.01.001\QDC002_GD32F303_01.001V01.01.001V04.hex" 0x08000000
+sleep 100
+r
+g
+q
